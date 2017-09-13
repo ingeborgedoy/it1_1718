@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Yantramanav:100');
+
+
+
+body{
+    background: #0f5f51;
+  }
+
+h1{
+    font-family: 'Yantramanav', sans-serif;
+    font-size: 500%;
+    font-weight: 100;
+    text-align: center;
+    color: whitesmoke;
+}
+
+h2{
+    font-family: 'Yantramanav', sans-serif;
+    font-weight: 400;
+    font-size: 200%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #cbdb5f;
+    letter-spacing: 2px;
+    width:100%;
+    padding:0 0;
+    margin: 15px 10px;
+
+
+}
+div.velkommen{
+    border: 3px solid #cbdb5f;
+    border-radius: 13px;
+    max-width: 350px;
+    margin:auto;
+
+}
+div.velkommen:hover{
+    border: 3px solid #de3b62;
+}
+h2:hover{
+    color: #de3b62;
+}
