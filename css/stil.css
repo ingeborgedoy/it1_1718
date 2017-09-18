@@ -22,21 +22,21 @@ h2{
     text-transform: uppercase;
     color: #cbdb5f;
     letter-spacing: 2px;
-    width:100%;
-    padding:0 0;
-    margin: 15px 10px;
-
-
-}
-div.velkommen{
+    width: 300px;
+    padding: 10px 10px;
+    margin: auto;
     border: 3px solid #cbdb5f;
     border-radius: 13px;
-    max-width: 350px;
-    margin:auto;
+
 
 }
-div.velkommen:hover{
+a.velkommen{
+    text-decoration: none;
+
+}
+a .velkommen:hover{
     border: 3px solid #de3b62;
+
 }
 h2:hover{
     color: #de3b62;
